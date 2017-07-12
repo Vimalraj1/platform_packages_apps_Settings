@@ -3259,4 +3259,24 @@
     <string name="automatic_storage_manager_activation_warning" msgid="6353100011690933254">"Seu armazenamento está sendo controlado pelo gerenciador de armazenamento"</string>
     <string name="carrier_provisioning" msgid="4398683675591893169">"Informações de aprovisionamento da operadora"</string>
     <string name="trigger_carrier_provisioning" msgid="3434865918009286187">"Acionar aprovisionamento da operadora"</string>
+	
+   <!-- Expanded desktop -->
+   <string name="power_menu_expanded_desktop">Área de trabalho expandida</string>
+   <string name="keywords_expanded_desktop">Área de trabalho expandida</string>
+   <string name="expanded_hide_nothing">Não ocultar nada</string>
+   <string name="expanded_hide_status">Ocultar a barra de status</string>
+   <string name="expanded_hide_navigation">Ocultar a barra de navegação</string>
+   <string name="expanded_hide_both">Ocultar ambas</string>
+   <string name="expanded_nothing_to_show">Para adicionar uma configuração personalizado a um aplicativo no modo expandido, a opção \"Ativado para todos\" deve estar desativada</string>
+   <string name="expanded_desktop_state">Estado expandido</string>
+   <string name="expanded_enabled_for_all">Ativado para todos</string>
+   <string name="expanded_user_configurable">Configurável pelo usuário</string>
+   <string name="expanded_desktop_style">Estilo de área de trabalho expandida</string>
+   <string name="expanded_desktop_style_description">Escolher um estilo padrão para a área de trabalho expandida</string>
+   <string name="expanded_desktop_title">Opções da área de trabalho expandida</string>
+   
+   <!-- Volume button track change -->
+   <string name="volbtn_music_controls_title">Controle de música</string>
+   <string name="volbtn_music_controls_summary">Com a tela desligada, pressione longamente as teclas de volume para procurar faixas</string>
+   
 </resources>
