@@ -244,7 +244,6 @@ public class SettingsActivity extends SettingsDrawerActivity
 
     private static final String SUBSTRATUM_FRAGMENT = "com.android.settings.Substratum";
 
-    private static final String TOOLBOX_FRAGMENT = "com.android.settings.Toolbox";
 
     private String mFragmentClass;
     private String mActivityAction;
@@ -382,7 +381,6 @@ public class SettingsActivity extends SettingsDrawerActivity
             ManageDomainUrls.class.getName(),
             AutomaticStorageManagerSettings.class.getName(),
             ExpandedDesktopPreferenceFragment.class.getName(),
-            BatterySettings.class.getName()
     };
 
 
