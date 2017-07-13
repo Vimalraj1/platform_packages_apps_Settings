@@ -3223,7 +3223,7 @@
     <string name="deletion_helper_automatic_title" msgid="6605660435498272520">"Modo automático"</string>
     <string name="deletion_helper_manual_title" msgid="7947432164411214029">"Modo manual"</string>
     <string name="deletion_helper_preference_title" msgid="5271510052022285884">"Liberar espaço agora"</string>
-    <string name="gesture_preference_title" msgid="5280023307132819052">"Gestos"</string>
+    <string name="gesture_preference_title" msgid="5280023307132819052">"Gestos Rápidos"</string>
     <string name="gesture_preference_summary" product="default" msgid="8627850388011956901">"Gestos rápidos para controlar seu smartphone"</string>
     <string name="gesture_preference_summary" product="tablet" msgid="4717535378272065510">"Gestos rápidos para controlar seu tablet"</string>
     <string name="gesture_preference_summary" product="device" msgid="4205941452664950852">"Gestos rápidos para controlar seu dispositivo"</string>
