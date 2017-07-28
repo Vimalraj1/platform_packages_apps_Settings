@@ -3285,6 +3285,11 @@
    <string name="expanded_desktop_style_description">Escolher um estilo padrão para a área de trabalho expandida</string>
    <string name="expanded_desktop_title">Opções da área de trabalho expandida</string>
    
+   <!-- Linked / unlinked notification volume -->
+   <string name="link_volume_option_title">Anel de ligação e volume de notificação</string>
+   <string name="notification_volume_option_title">Volume de notificação</string>
+   <string name="ring_notification_volume_option_title">Anel e volume de notificação</string>
+   
    <!-- Volume button track change -->
    <string name="volbtn_music_controls_title">Controle de música</string>
    <string name="volbtn_music_controls_summary">Com a tela desligada, pressione longamente as teclas de volume para procurar faixas</string>
