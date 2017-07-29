@@ -3294,4 +3294,17 @@
    <string name="volbtn_music_controls_title">Controle de música</string>
    <string name="volbtn_music_controls_summary">Com a tela desligada, pressione longamente as teclas de volume para procurar faixas</string>
    
+   <!-- Advanced night mode brightness -->
+   <string name="night_brightness_category">Brilho</string>
+   <string name="night_brightness_value_title">Brilho noturno</string>
+   <string name="night_brightness_text">Quando a luz da noite é ativada automaticamente definir o brilho desejado. Quando ativado, por padrão o brilho é reduzido para o mínimo</string>
+   <string name="night_bright_disabled">Desativado</string>
+   <string name="night_bright_min">Brilho mínimo</string>
+   <string name="night_bright_low">Brilho baixo</string>
+   <string name="night_bright_medium">Brilho médio</string>
+   
+   <!-- Force authorize substratum packages -->
+   <string name="force_authorize_substratum_packages_title">Force autoriza cada aplicativo de tema</string>
+   <string name="force_authorize_substratum_packages_summary">Permitir aplicativos de temas de fontes desconhecidas</string>
+   
 </resources>
