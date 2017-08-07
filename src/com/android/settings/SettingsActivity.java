@@ -38,12 +38,8 @@ import android.content.res.Configuration;
 import android.nfc.NfcAdapter;
 import android.os.AsyncTask;
 import android.os.Bundle;
-<<<<<<< HEAD
-=======
 import android.os.Handler;
 import android.os.Looper;
-import android.os.PersistableBundle;
->>>>>>> d5bd93d... Settings: Support color engine
 import android.os.UserHandle;
 import android.os.UserManager;
 import android.provider.Settings.Secure;
